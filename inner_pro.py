@@ -1,4 +1,4 @@
-responses = ["welcome to smart calculator", "my name is Samani Bhavesh but you can call me as SB", "Thanks",
+responses = ["welcome to smart calculator", "my name is SAMANI BHAVESH but you can call me as SB", "Thanks",
              "sorry, this is beyond my ability"]
 
 
